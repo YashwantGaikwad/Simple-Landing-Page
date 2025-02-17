@@ -1,0 +1,13 @@
+
+.toplink{
+    color: grey;
+    cursor: pointer;
+    padding-left: 20px;
+
+}
+.gallary{
+    border: 10px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
